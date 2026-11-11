@@ -1,0 +1,9 @@
+{
+  "name": "mygame",
+  "displayName": "MyGame",
+  "version": "1.0.0",
+  "dependencies": {
+    "cordova-android": "^12.0.0",
+    "adivery-cordova-plugin": "^1.0.0"
+  }
+}
